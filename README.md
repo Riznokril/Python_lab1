@@ -19,6 +19,9 @@
 ##Інструкція по запуску:
 
 Перший крок: напишіть в консолі git clone https://github.com/Riznokril/Python_lab1
+
 Другий крок: там же cd Python_lab1
+
 Третій крок: перейдіть на бренч lab1 git checkout lab1
+
 Четвертий крок: запустіть програму ввівши Python_lab1.py в консоль
